@@ -1,1 +1,1 @@
-# DSC520--Week7
+# DSC520 - Week7 Solutions
